@@ -1,4 +1,4 @@
-# revenue_forecasting
+# Revenue Forecasting
 Forecasting Revenue using Prophet and a LSTM Network
 
 ### [Prophet Forecast](https://github.com/raulbarrue/revenue_forecasting/blob/master/prophet%20forecast.ipynb)
